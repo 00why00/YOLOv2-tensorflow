@@ -2,3 +2,5 @@
 
 VOCdevkit/
 weight/
+.ipynb_checkpoints/
+.idea/
